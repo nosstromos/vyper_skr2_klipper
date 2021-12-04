@@ -1,6 +1,7 @@
 /**
  * @author nosstromOS 2021-12-04
- * 
+ * https://github.com/nosstromos/vyper_skr2_klipper
+ *
  * PROOF OF CONCEPT - USE AT YOUR OWN RISK!
  *  
  * Partial replacemend for original NF_007_EXTRUDER_V0.0.5 board of anycubic vyper.
